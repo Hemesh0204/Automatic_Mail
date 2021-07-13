@@ -1,2 +1,4 @@
 # Automatic_Mail
-Here i have implemented Automatic mial program in a simpler manner if you want you can connect it with data base and take email id and and then send mails  or store the email ids in a file and then do it for implementing this project in large scale
+Here i have implemented Automatic mail program in a simpler Fashion, if you want you can connect it with database server and take email id and and then send mails  or store the email ids in a file and send the predefined content then do it for implementing this project in large scale.
+
+
